@@ -1,0 +1,13 @@
+graph metrics , check NetworkX reference parts like 'Distance Measures' also used in jin2016 and cited from a reference as a metric of network performance
+
+
+
+main routine with a look on title "Interconnection and fair incentivization in converged data networks" : 
+
+1-network topology , 
+
+2-display trade-off between link cost/ number of links/ maybe deployment cost / maybe equipment cost when load is high / and a metric to show same performance : like a powerful link with cost X equals Y links with cost Z in performance
+
+3- fairness analysis between nodes
+
+4-incentivizing nodes to accept traffic by means of ?? / maybe hardware resource
